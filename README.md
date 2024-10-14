@@ -1,5 +1,8 @@
-## Hi there 👋
-<a href="https://github.com/ThibeVanOrshaegen/github-stats">
+## Thibe Van Orshaegen
+
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ThibeVanOrshaegen&theme=tokyonight)]()
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=ThibeVanOrshaegen&count_private=true&theme=tokyonight&showicons=true)]()
+
 
 
 <!--
